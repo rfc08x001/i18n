@@ -11,7 +11,7 @@ Supported languages for UI:
 8. [Russian](ru.json)
 9. [Thai](th.json)
 10. [Traditional Chinese](zh.json)
-
+11. [Simplified Chinese](zh_cn.json)
 Feel free to contribute and suggest new languages.
 
 We're sure that in every language some things can be said better or shorter. Be free when translating.
